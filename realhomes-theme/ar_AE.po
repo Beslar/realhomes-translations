@@ -65,7 +65,7 @@ msgstr "يرجى محاولة استخدام أعلى الملاحة أو الب
 #: assets/classic/partials/author.php:95 framework/customizer/contact.php:136
 #, fuzzy
 msgid "Contact Details"
-msgstr "بيانات المتصل"
+msgstr "معلومات المتصل"
 
 #: assets/classic/partials/agency/single/agency.php:80
 #: assets/classic/partials/agency/single/agency.php:262
@@ -112,7 +112,7 @@ msgstr "مكتب. مقر. مركز"
 #: framework/customizer/contact.php:413
 #, fuzzy
 msgid "Mobile"
-msgstr "التليفون المحمول"
+msgstr "الهاتف المحمول"
 
 #: assets/classic/partials/agency/single/agency.php:102
 #: assets/classic/partials/agency/single/agency.php:272
@@ -212,7 +212,7 @@ msgstr "الاسم"
 #: assets/modern/partials/property/single/agent.php:128
 #, fuzzy
 msgid "* Please provide your name"
-msgstr "* يرجى تقديم اسمك"
+msgstr "* يرجى كتابة اسمك"
 
 #: assets/classic/partials/agency/single/contact-form.php:25
 #: assets/classic/partials/agent/single/contact-form.php:35
@@ -264,7 +264,7 @@ msgstr "البريد الإلكتروني"
 #: assets/modern/partials/property/single/agent.php:134
 #, fuzzy
 msgid "* Please provide valid email address"
-msgstr "* يرجى تقديم عنوان بريد إلكتروني صالح"
+msgstr "* يرجى تقديم بريد إلكتروني صالح"
 
 #: assets/classic/partials/agency/single/contact-form.php:31
 #: assets/classic/partials/agent/single/contact-form.php:41
@@ -298,7 +298,7 @@ msgstr "الهاتف"
 #: assets/modern/partials/property/single/agent.php:140
 #, fuzzy
 msgid "* Please provide valid phone number"
-msgstr "* يرجى تقديم رقم هاتف صالح"
+msgstr "* يرجى توفير رقم هاتف صالح"
 
 #: assets/classic/partials/agency/single/contact-form.php:37
 #: assets/classic/partials/agent/single/contact-form.php:47
@@ -330,7 +330,7 @@ msgstr "رسالة"
 #: assets/modern/partials/property/single/agent.php:146
 #, fuzzy
 msgid "* Please provide your message"
-msgstr "* يرجى تقديم رسالتك"
+msgstr "* يرجى كتابة رسالتك"
 
 #: assets/classic/partials/agency/single/contact-form.php:86
 #: assets/classic/partials/agent/single/contact-form.php:96
@@ -358,7 +358,7 @@ msgstr "إرسال رسالة"
 #: assets/classic/partials/property/single/children.php:73
 #: assets/classic/partials/property/single/similar-property-card.php:33
 msgid "More Details "
-msgstr ""
+msgstr "معلومات أكثر"
 
 #: assets/classic/partials/author.php:20 assets/modern/partials/author.php:35
 #: assets/modern/partials/author.php:63
@@ -374,7 +374,7 @@ msgstr "جميع العقارات بواسطة"
 #: assets/modern/partials/member/properties.php:246
 #: assets/modern/partials/properties/compare.php:392
 msgid "No Properties Found!"
-msgstr ""
+msgstr "لاتوجد عقارات"
 
 #: assets/classic/partials/banners/blog.php:10
 #: assets/modern/partials/banner/blog.php:10 assets/modern/partials/index.php:37
@@ -419,7 +419,7 @@ msgstr "جميع المشاركات في العلامة"
 #: assets/modern/partials/blog/archive.php:38
 #, fuzzy
 msgid "All Posts By"
-msgstr "كل المشاركات"
+msgstr "كل المشاركات من قبل"
 
 #: assets/classic/partials/blog/article.php:33
 #: assets/classic/partials/blog/single.php:43
@@ -434,7 +434,7 @@ msgstr "في"
 #: assets/modern/partials/properties/list-card.php:195
 #: assets/modern/partials/properties/shortcode/list-card.php:158
 msgid "By"
-msgstr "من"
+msgstr "بواسطة"
 
 #: assets/classic/partials/blog/article.php:52
 #: assets/modern/partials/blog/loop.php:57
@@ -452,7 +452,7 @@ msgstr "اقرأ أكثر"
 #: assets/modern/partials/blog/loop.php:74
 #, fuzzy
 msgid "No Posts Found!"
-msgstr "لم يتم العثور على أية رسائل!"
+msgstr "لم يتم العثور على أية مقالات!"
 
 #: assets/classic/partials/blog/search.php:16
 #: assets/modern/partials/blog/search.php:26
@@ -511,7 +511,7 @@ msgstr "كلمة المرور"
 #: assets/modern/partials/page/login-register.php:88
 #, fuzzy
 msgid "* Provide password!"
-msgstr "* تقديم كلمة المرور!"
+msgstr "* كتابة كلمة المرور!"
 
 #: assets/classic/partials/footer/modal-login.php:53
 #: assets/classic/partials/page/login-register.php:86
@@ -555,7 +555,7 @@ msgstr "اسم المستخدم أو البريد الالكتروني"
 #: assets/modern/partials/page/login-register.php:149
 #, fuzzy
 msgid "* Provide username or email!"
-msgstr "* تقديم اسم المستخدم أو البريد الإلكتروني!"
+msgstr "* كتابة اسم المستخدم أو البريد الإلكتروني!"
 
 #: assets/classic/partials/footer/modal-login.php:113
 #: assets/classic/partials/footer/modal-login.php:185
@@ -583,11 +583,11 @@ msgstr "اسم المستخدم"
 #: assets/modern/partials/page/login-register.php:225
 #, fuzzy
 msgid "* Provide valid email address!"
-msgstr "* تقديم عنوان بريد إلكتروني صالح!"
+msgstr "* توفير عنوان بريد إلكتروني صالح!"
 
 #: assets/classic/partials/header/phone-number.php:13
 msgid "Make a Call"
-msgstr ""
+msgstr "اتصال"
 
 #: assets/classic/partials/header/user-nav.php:17
 #: assets/modern/partials/header/modal.php:290
@@ -603,7 +603,7 @@ msgstr "المفضلة"
 #: assets/classic/partials/header/user-nav.php:29
 #: assets/modern/partials/header/submit-property.php:6
 msgid "Submit"
-msgstr "عرض"
+msgstr "إرسال"
 
 #: assets/classic/partials/header/user-nav.php:39
 #: assets/modern/partials/header/modal.php:280
@@ -636,7 +636,7 @@ msgstr "خروج"
 #: assets/classic/partials/header/user-nav.php:72
 #, fuzzy
 msgid "Login / Register"
-msgstr "دخولتسجيل"
+msgstr "دخول/تسجيل"
 
 #: assets/classic/partials/header/variation-center.php:88
 #: assets/classic/partials/header/variation-simple.php:60
@@ -646,7 +646,7 @@ msgstr "قائمة"
 #: assets/classic/partials/header/variation-simple.php:29
 #, fuzzy
 msgid "Email us at"
-msgstr "مراسلتنا على البريد الإلكتروني"
+msgstr "مراسلتنا على"
 
 #: assets/classic/partials/home/sections/blog-posts.php:85
 #, fuzzy
@@ -661,17 +661,17 @@ msgstr "بواسطة"
 
 #: assets/classic/partials/home/sections/blog-posts.php:89
 msgid "Read More "
-msgstr ""
+msgstr "قراءة المزيد"
 
 #: assets/classic/partials/home/sections/featured-properties.php:122
 #, fuzzy
 msgid "Photos"
-msgstr "الصور"
+msgstr "صور"
 
 #: assets/classic/partials/home/sections/featured-properties.php:122
 #, fuzzy
 msgid "Photo"
-msgstr "صورة فوتوغرافية"
+msgstr "صورة "
 
 #: assets/classic/partials/home/sections/featured-properties.php:177
 #: assets/classic/partials/properties/compare.php:99
@@ -763,7 +763,7 @@ msgstr "جار التحميل..."
 #: assets/classic/partials/home/slider/search-form-over-image.php:79
 #, fuzzy
 msgid "Advanced Search"
-msgstr "البحث المتقدم"
+msgstr "بحث متقدم"
 
 #: assets/classic/partials/page/agencies-list.php:192
 #: assets/classic/partials/page/agents-list.php:195
@@ -786,7 +786,7 @@ msgstr "البحث المتقدم"
 #: assets/modern/partials/taxonomy/list-layout.php:60
 #, fuzzy
 msgid "Sorry No Results Found"
-msgstr "عذرا لا توجد نتائج"
+msgstr "عذراً لا توجد نتائج"
 
 #: assets/classic/partials/page/contact.php:135
 #: assets/classic/partials/property/form-fields/google-map.php:19
@@ -807,7 +807,7 @@ msgstr "عنوان"
 #: assets/modern/partials/page/contact.php:87
 #, fuzzy
 msgid "* Please provide a valid email address"
-msgstr "* يرجى تقديم عنوان بريد إلكتروني صالح"
+msgstr "* يرجى توفير عنوان بريد إلكتروني صالح"
 
 #: assets/classic/partials/page/contact.php:187
 #: framework/customizer/contact.php:215
@@ -818,7 +818,7 @@ msgstr "رقم الهاتف"
 #: assets/classic/partials/page/edit-profile.php:71
 #, fuzzy
 msgid "Change"
-msgstr "يتغيرون"
+msgstr "تغيير"
 
 #: assets/classic/partials/page/edit-profile.php:73
 #: framework/functions/submit-edit.php:162
@@ -900,7 +900,7 @@ msgstr "رقم الفاكس"
 #: framework/functions/basic.php:387
 #, fuzzy
 msgid "Facebook URL"
-msgstr "URL الفيسبوك"
+msgstr " رابط الفيسبوك"
 
 #: assets/classic/partials/page/edit-profile.php:175
 #: assets/modern/partials/page/edit-profile.php:250
@@ -915,7 +915,7 @@ msgstr "رابط تويتر"
 #: framework/customizer/sections/header/social-icons.php:86
 #: framework/functions/basic.php:389
 msgid "Google Plus URL"
-msgstr "URL جوجل بلس"
+msgstr "رابط جوجل بلس"
 
 #: assets/classic/partials/page/edit-profile.php:191
 #: assets/modern/partials/page/edit-profile.php:270
@@ -923,13 +923,13 @@ msgstr "URL جوجل بلس"
 #: framework/functions/basic.php:390
 #, fuzzy
 msgid "LinkedIn URL"
-msgstr "عنوان URL على LinkedIn"
+msgstr "رابط لنكدإن"
 
 #: assets/classic/partials/page/edit-profile.php:209
 #: assets/modern/partials/page/edit-profile.php:296
 #: framework/include/design-page/design-page.php:96
 msgid "Save Changes"
-msgstr "حفظ الإعدادات"
+msgstr "حفظ التغييرات"
 
 #: assets/classic/partials/page/edit-profile.php:236
 #: assets/classic/partials/page/my-properties.php:307
@@ -967,18 +967,18 @@ msgstr "إزالة من المفضلة"
 #: assets/modern/partials/page/favorites.php:166
 #, fuzzy
 msgid "No property found!"
-msgstr "لا يوجد ممتلكات!"
+msgstr "لا يوجد عقارات!"
 
 #: assets/classic/partials/page/favorites.php:139
 #: assets/modern/partials/page/favorites.php:173
 #, fuzzy
 msgid "You have no property in favorites!"
-msgstr "لا يوجد لديك خاصية في المفضلة!"
+msgstr "لا يوجد لديك عقارات في المفضلة!"
 
 #: assets/classic/partials/page/login-register.php:60
 #: assets/modern/partials/page/login-register.php:70
 msgid "Already a Member? Log in here."
-msgstr "انت عضوا فعلا ؟ سجل الدخول من هنا."
+msgstr "هل انت مشترك ؟ سجل الدخول من هنا."
 
 #: assets/classic/partials/page/login-register.php:63
 #: assets/classic/partials/page/login-register.php:146
@@ -997,7 +997,7 @@ msgstr "اسم المستخدم"
 #: assets/modern/partials/page/login-register.php:214
 #, fuzzy
 msgid "* Provide username!"
-msgstr "* تقديم اسم المستخدم!"
+msgstr "* توفير اسم المستخدم!"
 
 #: assets/classic/partials/page/login-register.php:106
 #: assets/modern/partials/page/login-register.php:137
@@ -1037,25 +1037,25 @@ msgstr "نجاح:"
 #: assets/modern/partials/member/properties.php:139
 #, fuzzy
 msgid "Property removed."
-msgstr "تمت إزالة الموقع."
+msgstr "تم إزالة العقار."
 
 #: assets/classic/partials/page/my-properties.php:25
 #: assets/modern/partials/member/properties.php:141
 #, fuzzy
 msgid "Property Submitted."
-msgstr "الممتلكات المقدمة."
+msgstr "تم تسجيل العقار."
 
 #: assets/classic/partials/page/my-properties.php:27
 #: assets/modern/partials/member/properties.php:143
 #, fuzzy
 msgid "Property Updated."
-msgstr "تحديث الملكية."
+msgstr "تم تحديث العقار."
 
 #: assets/classic/partials/page/my-properties.php:29
 #: assets/modern/partials/member/properties.php:145
 #, fuzzy
 msgid "Payment Submitted."
-msgstr "دفع المقدمة."
+msgstr "تمت عملية الدفع."
 
 #: assets/classic/partials/page/my-properties.php:31
 #: assets/classic/partials/page/submit-property.php:387
@@ -1075,19 +1075,19 @@ msgstr "عملية الدفع فشلت."
 #: assets/modern/partials/member/properties.php:166
 #, fuzzy
 msgid "Number of properties that you can publish:"
-msgstr "عدد الخصائص التي يمكنك نشرها:"
+msgstr "عدد العقارات التي يمكنك نشرها:"
 
 #: assets/classic/partials/page/my-properties.php:52
 #: assets/modern/partials/member/properties.php:167
 #, fuzzy
 msgid "Number of properties that can be marked as featured:"
-msgstr "عدد الخصائص التي يمكن تمييزها بأنها مميزة:"
+msgstr "عدد العقارات التي يمكن تمييزها بأنها مميزة:"
 
 #: assets/classic/partials/page/my-properties.php:103
 #: assets/modern/partials/member/properties.php:218
 #, fuzzy
 msgid "Please subscribe a membership package to start publishing properties."
-msgstr "يرجى الاشتراك في حزمة عضوية لبدء نشر الممتلكات."
+msgstr "يرجى الاشتراك في حزمة عضوية لبدء نشر العقارات."
 
 #: assets/classic/partials/page/my-properties.php:188
 #, fuzzy
@@ -1098,7 +1098,7 @@ msgstr "نشر على :"
 #: assets/modern/partials/member/my-property.php:147
 #, fuzzy
 msgid "Remove This Property"
-msgstr "قم بإزالة هذه الخاصية"
+msgstr "قم بإزالة هذا العقار"
 
 #: assets/classic/partials/page/my-properties.php:246
 #: assets/modern/partials/member/my-property.php:51
@@ -1116,7 +1116,7 @@ msgstr "ملحوظة:"
 #: assets/classic/partials/page/my-properties.php:307
 #, fuzzy
 msgid "Please, Login to view your properties!"
-msgstr "من فضلك ، تسجيل الدخول لعرض خصائصك!"
+msgstr "من فضلك ، تسجيل الدخول لعرض عقاراتك!"
 
 #: assets/classic/partials/page/submit-property.php:387
 #: assets/modern/partials/page/submit-property.php:456
@@ -1125,7 +1125,7 @@ msgstr "من فضلك ، تسجيل الدخول لعرض خصائصك!"
 #: framework/functions/property-submit-handler.php:108
 #, fuzzy
 msgid "Security check failed!"
-msgstr "فشل التحقق من الأمن!"
+msgstr "فشل التحقيق الأمني!"
 
 #: assets/classic/partials/page/submit-property.php:397
 #: assets/modern/partials/page/submit-property.php:466
@@ -1138,7 +1138,7 @@ msgstr "تم تحديث العقار بنجاح!"
 #: assets/modern/partials/page/submit-property.php:450
 #, fuzzy
 msgid "Please login to submit property!"
-msgstr "الرجاء تسجيل الدخول لتقديم العقار!"
+msgstr "الرجاء تسجيل الدخول لنشر العقار!"
 
 #: assets/classic/partials/page/users-list.php:221
 #, fuzzy
@@ -1178,7 +1178,7 @@ msgstr "منطقة"
 
 #: assets/classic/partials/properties/compare.php:97
 msgid "Size"
-msgstr "بحجم"
+msgstr "حجم"
 
 #: assets/classic/partials/properties/compare/button.php:17
 #: assets/classic/partials/properties/compare/search-card-button.php:16
@@ -1205,7 +1205,7 @@ msgstr "أضف للمقارنة"
 #: framework/customizer/compare-properties.php:51
 #, fuzzy
 msgid "Compare Properties"
-msgstr "مقارنة خصائص"
+msgstr "مقارنة عقارات"
 
 #: assets/classic/partials/properties/compare/view.php:71
 #: assets/modern/partials/header/modal.php:301
@@ -1277,7 +1277,7 @@ msgstr "الكلمة"
 #: framework/customizer/sections/search/search-form-bed.php:69
 #, fuzzy
 msgid "Min Baths"
-msgstr "مين الحمامات"
+msgstr "الحد الأدنى حمامات"
 
 #: assets/classic/partials/properties/search/fields/min-beds.php:10
 #: assets/modern/partials/properties/search/fields/min-beds.php:17
@@ -1293,14 +1293,14 @@ msgstr "الحد الأدنى سرير"
 #: framework/customizer/sections/search/search-form-garages.php:32
 #, fuzzy
 msgid "Min Garages"
-msgstr "مين كراج"
+msgstr "الحد الأدنى كراج"
 
 #: assets/classic/partials/properties/search/fields/min-max-area.php:13
 #: assets/modern/partials/properties/search/fields/min-max-area.php:20
 #: framework/customizer/sections/search/search-form-areas.php:31
 #, fuzzy
 msgid "Min Area"
-msgstr "المنطقة الدنيا"
+msgstr "اقل مساحة"
 
 #: assets/classic/partials/properties/search/fields/min-max-area.php:22
 #: assets/classic/partials/properties/search/fields/min-max-area.php:38
@@ -1317,7 +1317,7 @@ msgstr "فقط تقديم أرقام!"
 #: framework/customizer/sections/search/search-form-areas.php:68
 #, fuzzy
 msgid "Max Area"
-msgstr "ماكس منطقة"
+msgstr "أعلى مساحة"
 
 #: assets/classic/partials/properties/search/fields/min-max-price.php:11
 #: assets/classic/partials/properties/search/fields/min-max-price.php:38
@@ -1326,7 +1326,7 @@ msgstr "ماكس منطقة"
 #: framework/customizer/sections/search/search-form-prices.php:44
 #, fuzzy
 msgid "Min Price"
-msgstr "سعر الحد الأدنى"
+msgstr "أدنى سعر"
 
 #: assets/classic/partials/properties/search/fields/min-max-price.php:22
 #: assets/classic/partials/properties/search/fields/min-max-price.php:49
@@ -1335,7 +1335,7 @@ msgstr "سعر الحد الأدنى"
 #: framework/customizer/sections/search/search-form-prices.php:82
 #, fuzzy
 msgid "Max Price"
-msgstr "ماكس السعر"
+msgstr "أعلى سعر"
 
 #: assets/classic/partials/properties/search/fields/property-features.php:28
 #: assets/modern/partials/properties/search/fields/property-features.php:43
@@ -1359,13 +1359,13 @@ msgstr "تبحث عن ميزات معينة"
 #: framework/customizer/sections/search/search-form-basics.php:259
 #, fuzzy
 msgid "Property ID"
-msgstr "معرف الملكية"
+msgstr "رقم العقار"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:2
 #: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:10
 #, fuzzy
 msgid "Check In"
-msgstr "تحقق في"
+msgstr "دخول"
 
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:3
 #: assets/classic/partials/properties/search/fields/rvr/check-in-out.php:8
@@ -1384,13 +1384,13 @@ msgstr "أي"
 #: assets/modern/partials/properties/search/fields/rvr/check-in-out.php:15
 #, fuzzy
 msgid "Check Out"
-msgstr "الدفع"
+msgstr "خروج"
 
 #: assets/classic/partials/properties/search/fields/rvr/guest.php:2
 #: assets/modern/partials/properties/search/fields/rvr/guest.php:12
 #, fuzzy
 msgid "No of Guests"
-msgstr "لا للضيوف"
+msgstr "عدد الضيوف"
 
 #: assets/classic/partials/properties/search/fields/status.php:10
 #: assets/modern/partials/properties/search/fields/status.php:17
@@ -1409,19 +1409,19 @@ msgstr "حالة العقار"
 #: framework/customizer/sections/search/search-form-basics.php:90
 #: framework/customizer/sections/search/search-form-basics.php:343
 msgid "Property Type"
-msgstr "نوع الملكية العقارية"
+msgstr "نوع العقار"
 
 #: assets/classic/partials/properties/search/form.php:45
 #: framework/functions/design-variations-handler.php:539
 #, fuzzy
 msgid "More fields"
-msgstr "المزيد من المجالات"
+msgstr "المزيد من الحقول"
 
 #: assets/classic/partials/properties/search/four-columns.php:34
 #: assets/classic/partials/properties/search/one-column.php:16
 #: assets/classic/partials/properties/search/two-columns.php:21
 msgid "No Property Found!"
-msgstr ""
+msgstr "لايوجد عقار"
 
 #: assets/classic/partials/properties/search/results-with-sidebar.php:47
 #, php-format
@@ -1442,41 +1442,41 @@ msgstr "ترتيب حسب"
 #: assets/modern/partials/properties/sort-controls.php:30
 #, fuzzy
 msgid "Default Order"
-msgstr "امر افتراضي"
+msgstr "ترتيب افتراضي"
 
 #: assets/classic/partials/properties/sort-controls.php:31
 #: assets/modern/partials/properties/sort-controls.php:31
 #, fuzzy
 msgid "Price Low to High"
-msgstr "السعر من الارخص للاعلى"
+msgstr "السعر من الأقل للاعلى"
 
 #: assets/classic/partials/properties/sort-controls.php:32
 #: assets/modern/partials/properties/sort-controls.php:32
 #, fuzzy
 msgid "Price High to Low"
-msgstr "السعر الاعلى الى الادنى"
+msgstr "السعر من الأعلى للأقل"
 
 #: assets/classic/partials/properties/sort-controls.php:33
 #: assets/modern/partials/properties/sort-controls.php:33
 #, fuzzy
 msgid "Date Old to New"
-msgstr "التاريخ قديم الى جديد"
+msgstr "التاريخ من القديم للأحدث"
 
 #: assets/classic/partials/properties/sort-controls.php:34
 #: assets/modern/partials/properties/sort-controls.php:34
 #, fuzzy
 msgid "Date New to Old"
-msgstr "التاريخ جديد إلى قديم"
+msgstr "التاريخ من الجديد للأقدم"
 
 #: assets/classic/partials/property/edit-form.php:255
 #, fuzzy
 msgid "Requested property does not belong to logged in user !"
-msgstr "لا تنتمي الخاصية المطلوبة إلى تسجيل الدخول للمستخدم!"
+msgstr "لا ينتمي هذا العقار إلى المستخدم الحالي!"
 
 #: assets/classic/partials/property/edit-form.php:260
 #, fuzzy
 msgid "Requested post is not a valid property post !"
-msgstr "المشاركة المطلوبة ليست خاصية عقارية صالحة!"
+msgstr "المنشور المطلوب ليس عقار!"
 
 #: assets/classic/partials/property/form-fields/additional-details.php:23
 #: assets/modern/partials/property/form-fields/additional-details.php:33
@@ -1484,7 +1484,7 @@ msgstr "المشاركة المطلوبة ليست خاصية عقارية صا�
 #: framework/customizer/sections/property/basics.php:240
 #, fuzzy
 msgid "Additional Details"
-msgstr "تفاصيل اضافية"
+msgstr "تفاصيل أكثر"
 
 #: assets/classic/partials/property/form-fields/additional-details.php:27
 #: assets/modern/partials/property/form-fields/additional-details.php:71
@@ -1595,7 +1595,7 @@ msgstr "وصف العقار"
 #: assets/modern/partials/property/form-fields/featured.php:14
 #, fuzzy
 msgid "Mark this property as featured property"
-msgstr "اجعل هذه الخاصية ملكية مميزة"
+msgstr "اجعل هذ العقار مميز"
 
 #: assets/classic/partials/property/form-fields/features.php:2
 #: assets/modern/partials/property/form-fields/features.php:12
@@ -1686,7 +1686,7 @@ msgstr "(لا يوجد والد)"
 #: framework/customizer/members.php:241
 #, fuzzy
 msgid "Parent Property"
-msgstr "الملكية الأم"
+msgstr "العقار الأم"
 
 #: assets/classic/partials/property/form-fields/price-postfix.php:2
 #: assets/modern/partials/property/form-fields/price-postfix.php:12
@@ -1725,7 +1725,7 @@ msgstr "رسالة للمراجع"
 #: assets/modern/partials/property/form-fields/submit-button.php:19
 #, fuzzy
 msgid "Update Property"
-msgstr "تحديث الممتلكات"
+msgstr "تحديث العقار"
 
 #: assets/classic/partials/property/form-fields/submit-button.php:15
 #: assets/modern/partials/property/form-fields/submit-button.php:25
@@ -1734,7 +1734,7 @@ msgstr "تحديث الممتلكات"
 #: framework/customizer/sections/home/cta.php:156
 #, fuzzy
 msgid "Submit Property"
-msgstr "تقديم الممتلكات"
+msgstr "تقديم العقار"
 
 #: assets/classic/partials/property/form-fields/terms-conditions.php:4
 #: assets/modern/partials/property/form-fields/terms-conditions.php:9
@@ -1769,7 +1769,7 @@ msgstr "* يرجى تقديم عنوان العقار!"
 #: assets/modern/partials/property/form-fields/video.php:19
 #, fuzzy
 msgid "Virtual Tour Video URL"
-msgstr "عنوان URL الافتراضي للفيديو"
+msgstr "رابط الفيو الإفتراضي"
 
 #: assets/classic/partials/property/form-fields/year-built.php:24
 #: assets/classic/partials/property/form-fields/year-built.php:26
@@ -1780,7 +1780,7 @@ msgstr "عنوان URL الافتراضي للفيديو"
 #: framework/customizer/members.php:244
 #, fuzzy
 msgid "Year Built"
-msgstr "بنيت عام"
+msgstr "بناء عام"
 
 #: assets/classic/partials/property/single/add-to-favorites.php:17
 #: assets/classic/partials/property/single/add-to-favorites.php:28
@@ -1821,19 +1821,19 @@ msgstr "اتصل"
 #: assets/modern/partials/property/single/agent.php:300
 #, fuzzy
 msgid "Submitted by"
-msgstr "مقدم من"
+msgstr "مقدم من قبل"
 
 #: assets/classic/partials/property/single/floor-plans.php:20
 #: assets/modern/partials/property/single/floor-plans.php:16
 #: framework/customizer/members.php:245 framework/functions/submit-edit.php:274
 #, fuzzy
 msgid "Floor Plans"
-msgstr "خطط المبنى"
+msgstr "مخططات المبنى"
 
 #: assets/classic/partials/property/single/metas.php:21
 #, fuzzy
 msgid "Area Size"
-msgstr "حجم المنطقة"
+msgstr "مساحة المنطقة"
 
 #: assets/classic/partials/property/single/metas.php:63
 #: assets/modern/partials/property/single/meta.php:97
@@ -1845,7 +1845,7 @@ msgstr "كراج"
 #: assets/modern/partials/property/single/meta.php:156
 #, fuzzy
 msgid "Lot Size"
-msgstr "حجم كبير"
+msgstr "مساحة الأرض"
 
 #: assets/classic/partials/property/single/metas.php:107
 #: assets/modern/partials/property/single/meta.php:37
@@ -1875,25 +1875,25 @@ msgstr "محيط الموقع"
 #: assets/modern/partials/property/single/rvr/optional-services.php:17
 #, fuzzy
 msgid "Optional Services"
-msgstr "الخدمات الاختيارية"
+msgstr "خدمات اختيارية"
 
 #: assets/classic/partials/property/single/rvr/optional-services.php:14
 #: assets/modern/partials/property/single/rvr/optional-services.php:21
 #, fuzzy
 msgid "Included"
-msgstr "شمل"
+msgstr "شامل"
 
 #: assets/classic/partials/property/single/rvr/optional-services.php:27
 #: assets/modern/partials/property/single/rvr/optional-services.php:34
 #, fuzzy
 msgid "Not Included"
-msgstr "غير مشمول"
+msgstr "غير شامل"
 
 #: assets/classic/partials/property/single/rvr/outdoor-features.php:8
 #: assets/modern/partials/property/single/rvr/outdoor-features.php:16
 #, fuzzy
 msgid "Outdoor Features"
-msgstr "ميزات في الهواء الطلق"
+msgstr "ميزات المحيط الخارجي"
 
 #: assets/classic/partials/property/single/rvr/privacy-policies.php:8
 #: assets/modern/partials/property/single/rvr/privacy-policies.php:16
@@ -1924,7 +1924,7 @@ msgstr "لا توجد نتائج"
 #: assets/modern/partials/404.php:62
 #, fuzzy
 msgid "Please try top navigation!"
-msgstr "يرجى تجربة أعلى الملاحة!"
+msgstr "يرجى محاولة التصفح في الأعلى!"
 
 #: assets/modern/partials/agency/card.php:90
 #: assets/modern/partials/agency/single/card.php:48
@@ -1935,7 +1935,7 @@ msgstr "يرجى تجربة أعلى الملاحة!"
 #: assets/modern/partials/property/single-fullwidth/agent.php:59
 #, fuzzy
 msgid "Listed Property"
-msgstr "الملكية المدرجة"
+msgstr "عقار مدرج"
 
 #: assets/modern/partials/agency/card.php:90
 #: assets/modern/partials/agency/single/card.php:48
@@ -1946,7 +1946,7 @@ msgstr "الملكية المدرجة"
 #: assets/modern/partials/property/single-fullwidth/agent.php:59
 #, fuzzy
 msgid "Listed Properties"
-msgstr "خصائص مدرجة"
+msgstr "عقارات مدرجة"
 
 #: assets/modern/partials/agency/single/agency.php:35
 #, fuzzy
@@ -2000,7 +2000,7 @@ msgstr "هاتفك"
 #: assets/modern/partials/property/single/agent.php:145
 #: assets/modern/partials/property/single/agent.php:146
 msgid "Your Message"
-msgstr "الرسائل الخاصة بك"
+msgstr "رسائلك"
 
 #: assets/modern/partials/agent/card.php:128
 #: assets/modern/partials/page/users-list.php:255
@@ -2009,13 +2009,13 @@ msgstr "الرسائل الخاصة بك"
 #: assets/modern/partials/property/single/agent-for-sidebar.php:94
 #, fuzzy
 msgid "View My Listings"
-msgstr "عرض بلدي القوائم"
+msgstr "عرض منشوراتي"
 
 #: assets/modern/partials/agent/single/agent.php:56
 #: assets/modern/partials/author.php:76
 #, fuzzy
 msgid "My Listings"
-msgstr "بلدي القوائم"
+msgstr "منشوراتي"
 
 #: assets/modern/partials/agent/single/agent.php:112
 #, fuzzy
@@ -2035,7 +2035,7 @@ msgstr "نشر في"
 
 #: assets/modern/partials/blog/post/meta.php:25
 msgid "On "
-msgstr ""
+msgstr "في"
 
 #: assets/modern/partials/header/modal.php:96
 #: assets/modern/partials/header/modal.php:230
@@ -2046,7 +2046,7 @@ msgstr "مستخدم جديد؟ سجل الان"
 #: assets/modern/partials/header/modal.php:252
 #, fuzzy
 msgid "Welcome"
-msgstr "أهلا بك"
+msgstr "أهلاً بك"
 
 #: assets/modern/partials/header/modal.php:315
 #, fuzzy
@@ -2083,12 +2083,12 @@ msgstr "اضافة الى المفضلة"
 
 #: assets/modern/partials/home/section/news.php:96
 msgid "In "
-msgstr ""
+msgstr "في"
 
 #: assets/modern/partials/home/slider/property.php:167
 #, fuzzy
 msgid "No property is assigned to homepage slider!"
-msgstr "لم يتم تعيين أي خاصية لمنزلق الصفحة الرئيسية!"
+msgstr "لم يتم تعيين عقار لمنزلق الصفحة الرئيسية!"
 
 #: assets/modern/partials/home/slider/slides.php:104
 #, fuzzy
@@ -2103,7 +2103,7 @@ msgstr "معاينة"
 #: assets/modern/partials/member/my-property.php:134
 #: assets/modern/partials/page/submit-property.php:370
 msgid "Edit"
-msgstr "إجراء تعديل"
+msgstr "تعديل"
 
 #: assets/modern/partials/member/my-property.php:141
 #: assets/modern/partials/page/edit-profile.php:147
@@ -2113,7 +2113,7 @@ msgstr "حذف"
 #: assets/modern/partials/member/my-property.php:149
 #, fuzzy
 msgid "Confirm"
-msgstr "تؤكد"
+msgstr "تأكيد"
 
 #: assets/modern/partials/member/my-property.php:152
 msgid "Cancel"
@@ -2122,30 +2122,30 @@ msgstr "إلغاء"
 #: assets/modern/partials/member/properties.php:37
 #: assets/modern/partials/page/favorites.php:58
 msgid " of "
-msgstr ""
+msgstr "من"
 
 #: assets/modern/partials/member/properties.php:37
 #: assets/modern/partials/member/properties.php:41
 #: assets/modern/partials/page/favorites.php:58
 #: assets/modern/partials/page/favorites.php:62
 msgid " Properties"
-msgstr ""
+msgstr "عقارات"
 
 #: assets/modern/partials/member/properties.php:39
 #: assets/modern/partials/page/favorites.php:60
 msgid " Property"
-msgstr ""
+msgstr "عقار"
 
 #: assets/modern/partials/member/properties.php:129
 #: assets/modern/partials/member/properties.php:134
 #, fuzzy
 msgid "Please login to view your properties!"
-msgstr "يرجى تسجيل الدخول لعرض خصائصك!"
+msgstr "يرجى تسجيل الدخول لعرض عقاراتك!"
 
 #: assets/modern/partials/member/properties.php:131
 #, fuzzy, php-format
 msgid "Please %1$s login %2$s to view your properties!"
-msgstr "يرجى٪ 1 $ s تسجيل الدخول٪ 2 $ s لعرض خصائصك!"
+msgstr "يرجى٪ 1 $ s تسجيل الدخول٪ 2 $ s لعرض عقاراتك!"
 
 #: assets/modern/partials/page/edit-profile.php:109
 #, fuzzy, php-format
@@ -2209,17 +2209,17 @@ msgstr "Inspiration Membership plugin غير نشط!"
 #: assets/modern/partials/page/membership.php:112
 #, fuzzy
 msgid "Membership is not enabled!"
-msgstr "العضوية غير ممكنة!"
+msgstr "العضوية غير مّفعلة!"
 
 #: assets/modern/partials/page/membership.php:142
 #, fuzzy
 msgid "Free"
-msgstr "حر"
+msgstr "مجاني"
 
 #: assets/modern/partials/page/membership.php:152
 #, fuzzy
 msgid "Properties Allowed"
-msgstr "الخصائص المسموح بها"
+msgstr "العقارات المسموحة "
 
 #: assets/modern/partials/page/membership.php:156
 #: framework/customizer/sections/home/featured-properties.php:24
@@ -2228,7 +2228,7 @@ msgstr "الخصائص المسموح بها"
 #: framework/customizer/sections/home/sections-manager.php:100
 #, fuzzy
 msgid "Featured Properties"
-msgstr "خصائص مميزة"
+msgstr "عقارات مميزة"
 
 #: assets/modern/partials/page/membership.php:165
 #, fuzzy
@@ -2243,7 +2243,7 @@ msgstr "أسابيع"
 #: assets/modern/partials/page/membership.php:169
 #, fuzzy
 msgid "months"
-msgstr "الشهور"
+msgstr "أشهر"
 
 #: assets/modern/partials/page/membership.php:171
 #, fuzzy
@@ -2296,12 +2296,12 @@ msgstr "تحديث العضوية"
 #: assets/modern/partials/page/submit-property.php:371
 #, fuzzy
 msgid "Property"
-msgstr "خاصية"
+msgstr "عقار"
 
 #: assets/modern/partials/page/submit-property.php:447
 #, fuzzy, php-format
 msgid "Please %1$s login %2$s to submit property!"
-msgstr "يرجى٪ 1 $ s تسجيل الدخول٪ 2 $ s لإرسال ملكية!"
+msgstr "يرجى٪ 1 $ s تسجيل الدخول٪ 2 $ s لإرسال عقار!"
 
 #: assets/modern/partials/properties/compare.php:127
 #, fuzzy
@@ -2330,7 +2330,7 @@ msgstr ""
 #: assets/modern/partials/properties/search/widget-form.php:57
 #, fuzzy
 msgid "Advance Search is already enabled in the header."
-msgstr "تم تمكين البحث المتقدم بالفعل في العنوان."
+msgstr "تم تمكين البحث المتقدم بالفعل في الأعلى."
 
 #: assets/modern/partials/property/form-fields/area.php:20
 #: assets/modern/partials/property/form-fields/bathrooms.php:20
@@ -2348,7 +2348,7 @@ msgstr "تصفح الصور"
 
 #: assets/modern/partials/property/form-fields/images.php:59
 msgid "Note: "
-msgstr ""
+msgstr "ملاحظة"
 
 #: assets/modern/partials/property/form-fields/images.php:61
 #, fuzzy
@@ -2376,23 +2376,23 @@ msgstr "سعر البيع أو الإيجار"
 #: assets/modern/partials/property/form-fields/title.php:18
 #, fuzzy
 msgid "Enter property title"
-msgstr "أدخل عنوان الملكية"
+msgstr "أدخل عنوان العقار"
 
 #: assets/modern/partials/property/single-fullwidth/child.php:65
 #, fuzzy, php-format
 msgid "%s Photo"
 msgid_plural "%s Photos"
-msgstr[0] "صورة فوتوغرافية"
-msgstr[1] "صورة فوتوغرافية"
-msgstr[2] "صورة فوتوغرافية"
-msgstr[3] "صورة فوتوغرافية"
-msgstr[4] "صورة فوتوغرافية"
-msgstr[5] "صورة فوتوغرافية"
+msgstr[0] "صورة"
+msgstr[1] "صورة"
+msgstr[2] "صورة"
+msgstr[3] "صورة"
+msgstr[4] "صورة"
+msgstr[5] "صورة"
 
 #: assets/modern/partials/property/single-fullwidth/content.php:22
 #: assets/modern/partials/property/single/content.php:32
 msgid "Share"
-msgstr "نشر"
+msgstr "شارك"
 
 #: assets/modern/partials/property/single-fullwidth/content.php:33
 #: assets/modern/partials/property/single-fullwidth/content.php:44
@@ -2400,7 +2400,7 @@ msgstr "نشر"
 #: assets/modern/partials/property/single/content.php:58
 #, fuzzy
 msgid "Added to Favorite"
-msgstr "وأضاف إلى المفضلة"
+msgstr "أضيفت إلى المفضلة"
 
 #: assets/modern/partials/property/single-fullwidth/content.php:50
 #: assets/modern/partials/property/single/content.php:64
@@ -2472,7 +2472,7 @@ msgstr "تغيير الرأس"
 #: framework/customizer/agencies.php:28
 #, fuzzy
 msgid "Header variation to display on agency pages."
-msgstr "شكل رأس لعرضه على صفحات الوكالة."
+msgstr "عرض شكل الرأس على صفحات الوكالة."
 
 #: framework/customizer/agencies.php:32 framework/customizer/agents.php:32
 #: framework/customizer/contact.php:59 framework/customizer/gallery.php:32
@@ -2511,7 +2511,7 @@ msgstr "حدد عدد الوكلاء الذين سيتم عرضهم على صف�
 #: framework/customizer/agents.php:15
 #, fuzzy
 msgid "Agents Pages"
-msgstr "الوكلاء الصفحات"
+msgstr "صفحات الوكلاء"
 
 #: framework/customizer/agents.php:28
 #, fuzzy
@@ -2527,24 +2527,24 @@ msgstr "عدد الوكلاء"
 #: framework/customizer/agents.php:45
 #, fuzzy
 msgid "Select the maximum number of agents to display on an agents list page."
-msgstr "حدد الحد الأقصى لعدد العوامل للعرض على صفحة قائمة الوكلاء."
+msgstr "حدد الحد الأقصى لعدد الوكلاء للعرض على صفحة قائمة الوكلاء."
 
 #: framework/customizer/agents.php:78
 #, fuzzy
 msgid "Number of Properties on Agent Detail Page"
-msgstr "عدد الخصائص في صفحة تفاصيل الوكيل"
+msgstr "عدد العقارات في صفحة تفاصيل الوكيل"
 
 #: framework/customizer/agents.php:79
 #, fuzzy
 msgid "Select the number of properties to display on Agent detail page."
-msgstr "حدد عدد الخصائص المراد عرضها على صفحة تفاصيل الوكيل."
+msgstr "حدد عدد العقارات المراد عرضها على صفحة تفاصيل الوكيل."
 
 #: framework/customizer/compare-properties.php:52
 #, fuzzy
 msgid ""
 "Select to Enable or Disable Properties Compare functionality for Properties "
 "List Templates."
-msgstr "حدد لتمكين أو تعطيل خصائص مقارنة الخصائص لقوالب قائمة الخصائص."
+msgstr "حدد لتمكين أو تعطيل خصائص مقارنةالعقارات لقوالب قائمةالعقارات."
 
 #: framework/customizer/compare-properties.php:56
 #: framework/customizer/google-recaptcha.php:26
@@ -2572,7 +2572,7 @@ msgstr "تعطيل"
 #: framework/customizer/compare-properties.php:70
 #, fuzzy
 msgid "Select Compare Page"
-msgstr "حدد مقارنة الصفحة"
+msgstr "حدد صفحة المقارنة"
 
 #: framework/customizer/compare-properties.php:71
 #, fuzzy
@@ -2580,7 +2580,7 @@ msgid ""
 "Selected page should have Property Compare Template assigned to it. Also, "
 "make sure to Configure Pretty Permalinks."
 msgstr ""
-"يجب أن تحتوي الصفحة المحددة على Property Compare Template المعين لها. تأكد "
+"يجب أن تحتوي الصفحة المحددة على قالب مقارنة العقارالمعين لها. تأكد "
 "أيضًا من تكوين Permalinks Pretty."
 
 #: framework/customizer/compare-properties.php:83
@@ -2588,10 +2588,12 @@ msgid ""
 "You can only compare 4 properties, any new property added will replace the "
 "first one from the comparison."
 msgstr ""
+"يمنك فقط مقارنة 4 عقارات، كل عقار جديد يتم اضافته سيستبدل"
+"العقار الأول."
 
 #: framework/customizer/compare-properties.php:87
 msgid "Properties Comparison Limit Notification"
-msgstr ""
+msgstr "تنبيه خاص بالحد الأقصى لمقارنة العقارات"
 
 #: framework/customizer/contact.php:15
 #, fuzzy
@@ -2715,17 +2717,17 @@ msgstr "خريطة خط الطول"
 #: framework/customizer/contact.php:112
 #, fuzzy
 msgid "Map Zoom Level"
-msgstr "خريطة تكبير المستوى"
+msgstr "خريطة مستوى التكبير"
 
 #: framework/customizer/contact.php:113
 #, fuzzy
 msgid "Provide Map Zoom Level."
-msgstr "توفير خريطة التكبير المستوى."
+msgstr "توفير مستوى التكبير للخارطة."
 
 #: framework/customizer/contact.php:152
 #, fuzzy
 msgid "Contact Details Title"
-msgstr "تفاصيل الاتصال العنوان"
+msgstr "عنوان تفاصيل الإتصال"
 
 #: framework/customizer/contact.php:173
 #, fuzzy
@@ -2735,7 +2737,7 @@ msgstr "عنوان الإتصال"
 #: framework/customizer/contact.php:194
 #, fuzzy
 msgid "Cell Number"
-msgstr "رقم الخلوي"
+msgstr "رقم الهاتف"
 
 #: framework/customizer/contact.php:257
 #, fuzzy
@@ -2745,7 +2747,7 @@ msgstr "عرض البريد الإلكتروني"
 #: framework/customizer/contact.php:258
 #, fuzzy
 msgid "Provide Email that will be displayed in contact details section."
-msgstr "تقديم البريد الإلكتروني الذي سيتم عرضه في قسم تفاصيل الاتصال."
+msgstr "توفير بريدإلكتروني لعرضه في قسم تفاصيل الاتصال."
 
 #: framework/customizer/contact.php:291
 #, fuzzy
@@ -2760,7 +2762,7 @@ msgstr "نموذج الاتصال البريد الإلكتروني"
 #: framework/customizer/contact.php:314
 #, fuzzy
 msgid "Provide email address that will get messages from contact form."
-msgstr "تقديم عنوان البريد الإلكتروني الذي سيحصل على رسائل من نموذج الاتصال."
+msgstr "توفير بريدإلكتروني لإستقبال رسائل من نموذج الاتصال."
 
 #: framework/customizer/contact.php:326
 #, fuzzy
@@ -2793,7 +2795,7 @@ msgstr ""
 #: framework/customizer/contact.php:351
 #, fuzzy
 msgid "Contact Form Shortcode ( To Replace Default Form )"
-msgstr "نموذج الاتصال المختصر رمز قصير (لاستبدال النموذج الافتراضي)"
+msgstr "نموذج الاتصال المختصر رمز مختصر (لاستبدال النموذج الافتراضي)"
 
 #: framework/customizer/contact.php:352
 #, fuzzy
@@ -2802,12 +2804,12 @@ msgid ""
 "provide its shortcode here."
 msgstr ""
 "إذا كنت تريد استبدال نموذج الاتصال الافتراضي بنموذج مكون إضافي ، فيُرجى تقديم "
-"رمزه القصير هنا."
+"رمزه المختصر هنا."
 
 #: framework/customizer/currency-switcher.php:22
 #, fuzzy
 msgid "Currency Switcher"
-msgstr "الجلاد العملة"
+msgstr "مّغير العملة"
 
 #: framework/customizer/currency-switcher.php:33
 #, fuzzy
@@ -2854,7 +2856,7 @@ msgstr "ساعة واحدة"
 #: framework/customizer/currency-switcher.php:66
 #, fuzzy
 msgid "One Day"
-msgstr "يوماً ما"
+msgstr "يوم واحد"
 
 #: framework/customizer/currency-switcher.php:67
 #, fuzzy
@@ -2869,12 +2871,12 @@ msgstr "شهر واحد"
 #: framework/customizer/favorites.php:45
 #, fuzzy
 msgid "Add to Favorites Button on Property Detail Page"
-msgstr "أضف إلى المفضلة زر في صفحة تفاصيل الملكية"
+msgstr "أضف إلى المفضلة زر في صفحة تفاصيل العقار"
 
 #: framework/customizer/favorites.php:59
 #, fuzzy
 msgid "Select Favorite Properties Page"
-msgstr "اختر صفحة الخصائص المفضلة"
+msgstr "اختر صفحة العقارات المفضلة"
 
 #: framework/customizer/favorites.php:60
 #, fuzzy
@@ -2911,7 +2913,7 @@ msgstr "عنوان بانر"
 #: framework/customizer/gallery.php:54
 #, fuzzy
 msgid "Skim Through Available Properties"
-msgstr "المقشود من خلال الخصائص المتاحة"
+msgstr "تصفح سريع للعقارات المتوفرة"
 
 #: framework/customizer/gallery.php:58 framework/customizer/news.php:83
 #: framework/include/meta-boxes/banner-meta-box.php:28
@@ -2962,12 +2964,12 @@ msgstr "لا"
 #: framework/customizer/gdpr.php:38 framework/functions/basic.php:1021
 #, fuzzy
 msgid "GDPR Agreement"
-msgstr "اتفاق الناتج المحلي الإجمالي"
+msgstr "اتفاقية GDPR"
 
 #: framework/customizer/gdpr.php:42
 #, fuzzy
 msgid "GDPR agreement checkbox label"
-msgstr "علامة مربع الاختيار اتفاقية إجمالي الناتج المحلي"
+msgstr "علامة مربع الاختيار اتفاقية GDPR"
 
 #: framework/customizer/gdpr.php:51 framework/functions/basic.php:1025
 #, fuzzy
@@ -2975,13 +2977,13 @@ msgid ""
 "I consent to having this website store my submitted information so they can "
 "respond to my inquiry."
 msgstr ""
-"أوافق على تخزين موقع الويب هذا للمعلومات التي أرسلتها حتى يتمكنوا من الرد على "
+"أوافق على أن يقوم هذا الموقع بتخزين معلوماتي ليتمكنوا من الرد على "
 "استفساري."
 
 #: framework/customizer/gdpr.php:55
 #, fuzzy
 msgid "GDPR agreement checkbox text"
-msgstr "نص خانة الاختيار اتفاقية إجمالي الناتج المحلي"
+msgstr "نص خانة الاختيار اتفاقية GDPR"
 
 #: framework/customizer/gdpr.php:56
 msgid "You can use <a> tag in your GDPR agreement checkbox text."
@@ -2990,7 +2992,7 @@ msgstr ""
 #: framework/customizer/gdpr.php:65 framework/functions/basic.php:1023
 #, fuzzy
 msgid "* Please accept GDPR agreement"
-msgstr "* يرجى قبول اتفاقية الناتج المحلي الإجمالي"
+msgstr "* يرجى قبول اتفاقية الخصوصية GDPR"
 
 #: framework/customizer/gdpr.php:69
 #, fuzzy
@@ -3005,7 +3007,7 @@ msgstr "إضافة تفاصيل GDPR في البريد الإلكتروني ال
 #: framework/customizer/google-fonts/google-fonts.php:26
 #, fuzzy
 msgid "Theme Default Font"
-msgstr "الموضوع الافتراضي الخط"
+msgstr "نوع الخط للقالب الإفتراضي"
 
 #: framework/customizer/google-recaptcha.php:11
 #: framework/customizer/google-recaptcha.php:21
@@ -3021,7 +3023,7 @@ msgstr "للحماية من البريد المزعج على نماذج الوك
 #: framework/customizer/google-recaptcha.php:38
 #, fuzzy
 msgid "Site Key"
-msgstr "مفتاح الموقع"
+msgstr "Site Key"
 
 #: framework/customizer/google-recaptcha.php:39
 #, fuzzy, php-format
@@ -3034,7 +3036,7 @@ msgstr ""
 #: framework/customizer/google-recaptcha.php:54
 #, fuzzy
 msgid "Secret Key"
-msgstr "مفتاح سر"
+msgstr "Secret Key"
 
 #: framework/customizer/header.php:15
 msgid "Header"
@@ -3089,22 +3091,22 @@ msgstr "بانر صورة"
 #: framework/customizer/list-and-taxonomy.php:76
 #, fuzzy
 msgid "Default Layout"
-msgstr "التخطيط الافتراضي"
+msgstr "التنسيق الافتراضي"
 
 #: framework/customizer/list-and-taxonomy.php:77
 #, fuzzy
 msgid "Select the default layout for taxonomy archive pages."
-msgstr "حدد التنسيق الافتراضي لصفحات تصنيف التصنيف."
+msgstr "حدد التنسيق الافتراضي لصفحات ارشيف التصنيفات."
 
 #: framework/customizer/list-and-taxonomy.php:81
 #, fuzzy
 msgid "List Layout"
-msgstr "قائمة التخطيط"
+msgstr "عرض كقائمة"
 
 #: framework/customizer/list-and-taxonomy.php:82
 #, fuzzy
 msgid "Grid Layout"
-msgstr "تخطيط الشبكة"
+msgstr "عرض كشبكة"
 
 #: framework/customizer/list-and-taxonomy.php:92
 #, fuzzy
@@ -3114,18 +3116,18 @@ msgstr "عدد العقارات"
 #: framework/customizer/list-and-taxonomy.php:93
 #, fuzzy
 msgid "Select the maximum number of properties to display on a page."
-msgstr "حدد الحد الأقصى لعدد الخصائص المطلوب عرضها على الصفحة."
+msgstr "حدد الحد الأقصى لعدد العقارات المطلوب عرضها على الصفحة."
 
 #: framework/customizer/list-and-taxonomy.php:126
 #: framework/customizer/sections/home/home-properties.php:278
 #, fuzzy
 msgid "Skip Sticky Properties"
-msgstr "تخطي خصائص لزجة"
+msgstr "تخطي العقارات الملصقة"
 
 #: framework/customizer/list-and-taxonomy.php:127
 #, fuzzy
 msgid "Check to skip sticky properties on listing page."
-msgstr "تحقق لتخطي الخصائص اللزجة في صفحة القائمة."
+msgstr "تحقق لتخطي العقارات الملصقة في صفحة القائمة."
 
 #: framework/customizer/list-and-taxonomy.php:138
 #, fuzzy
@@ -3145,14 +3147,14 @@ msgstr ""
 #: framework/customizer/sections/property/similar-properties.php:104
 #, fuzzy
 msgid "Price - Low to High"
-msgstr "السعر من الارخص للاعلى"
+msgstr "السعر من الارخص للأغلى"
 
 #: framework/customizer/list-and-taxonomy.php:144
 #: framework/customizer/sections/home/home-properties.php:234
 #: framework/customizer/sections/property/similar-properties.php:105
 #, fuzzy
 msgid "Price - High to Low"
-msgstr "السعر الاعلى الى الادنى"
+msgstr "السعر من الأغلى للأرخص"
 
 #: framework/customizer/list-and-taxonomy.php:145
 #, fuzzy
@@ -3172,7 +3174,7 @@ msgstr "خرائط"
 #: framework/customizer/maps.php:22
 #, fuzzy
 msgid "Open Street Map:"
-msgstr "فتح خريطة الشارع:"
+msgstr "Open Street Map:"
 
 #: framework/customizer/maps.php:23
 #, fuzzy
@@ -3185,7 +3187,7 @@ msgstr ""
 #: framework/customizer/maps.php:34
 #, fuzzy
 msgid "Google Maps API Key"
-msgstr "مفتاح API لخرائط Google"
+msgstr "Google Maps API Key"
 
 #: framework/customizer/maps.php:46
 #, fuzzy
@@ -3195,12 +3197,12 @@ msgstr "توطين خرائط جوجل"
 #: framework/customizer/members.php:20
 #, fuzzy
 msgid "Members"
-msgstr "أفراد"
+msgstr "أعضاء"
 
 #: framework/customizer/members.php:28
 #, fuzzy
 msgid "Basic"
-msgstr "الأساسية"
+msgstr "أساسي"
 
 #: framework/customizer/members.php:39
 #, fuzzy
@@ -3234,7 +3236,7 @@ msgstr "المؤلف (المستوى الثاني)"
 #: framework/customizer/members.php:57
 #, fuzzy
 msgid "Select Memberships Page"
-msgstr "اختر صفحة العضويات"
+msgstr "اختر صفحة العضوية"
 
 #: framework/customizer/members.php:58
 #, fuzzy
@@ -3249,7 +3251,7 @@ msgstr "شكل رأس لعرضه على صفحات الأعضاء."
 #: framework/customizer/members.php:88
 #, fuzzy
 msgid "Login & Register"
-msgstr "دخولتسجيل"
+msgstr "دخول/تسجيل"
 
 #: framework/customizer/members.php:98
 #, fuzzy
@@ -3294,7 +3296,7 @@ msgstr "حدد تقديم خاصية الصفحة"
 #, fuzzy
 msgid "Selected page should have Submit Property Template assigned to it."
 msgstr ""
-"يجب أن تحتوي الصفحة المحددة على &quot;إرسال قالب الملكية&quot; المخصص لها."
+"يجب أن تحتوي الصفحة المحددة على &quot;إرسال قالب العقار&quot; المخصص لها."
 
 #: framework/customizer/members.php:219
 #, fuzzy
@@ -3319,7 +3321,7 @@ msgstr "سعر بوستفيكس"
 #: framework/customizer/members.php:233
 #, fuzzy
 msgid "Area Postfix"
-msgstr "منطقة Postfix"
+msgstr "مساحة Postfix"
 
 #: framework/customizer/members.php:234
 #: framework/customizer/sections/property/video.php:24
@@ -3329,7 +3331,7 @@ msgstr "فيديو"
 #: framework/customizer/members.php:235
 #, fuzzy
 msgid "Property Images"
-msgstr "صور الممتلكات"
+msgstr "صور العقار"
 
 #: framework/customizer/members.php:236
 #, fuzzy
@@ -3339,7 +3341,7 @@ msgstr "العنوان وخريطة جوجل"
 #: framework/customizer/members.php:238
 #, fuzzy
 msgid "Mark as Featured Checkbox"
-msgstr "وضع علامة على خانة اختيار مميزة"
+msgstr "وضع علامة كعقار مميز"
 
 #: framework/customizer/members.php:242
 #, fuzzy
@@ -3392,7 +3394,7 @@ msgstr "حالة العقار المقدمة"
 #: framework/customizer/members.php:315
 #, fuzzy
 msgid "Select the default status for submitted property."
-msgstr "حدد الحالة الافتراضية للخاصية المقدمة."
+msgstr "حدد الحالة الافتراضية للعقار المنشور."
 
 #: framework/customizer/members.php:319
 #, fuzzy
@@ -3448,12 +3450,12 @@ msgstr ""
 #: framework/customizer/members.php:395
 #, fuzzy
 msgid "Thanks for Submitting Property!"
-msgstr "شكرا لتقديم الملكية!"
+msgstr "شكرا لنشر العقار!"
 
 #: framework/customizer/members.php:400
 #, fuzzy
 msgid "Message After Successful Submit"
-msgstr "رسالة بعد النجاح"
+msgstr "رسالة بعد نجاح نشر العقار"
 
 #: framework/customizer/members.php:413
 #, fuzzy
@@ -3463,12 +3465,12 @@ msgstr "إرسال إشعار البريد الإلكتروني"
 #: framework/customizer/members.php:443
 #, fuzzy
 msgid "Select My Properties Page"
-msgstr "حدد صفحة خصائصي"
+msgstr "حدد صفحة عقاراتي"
 
 #: framework/customizer/members.php:444
 #, fuzzy
 msgid "Selected page should have My Properties Template assigned to it."
-msgstr "يجب أن تحتوي الصفحة المحددة على My Properties Template المعين لها."
+msgstr "يجب أن تحتوي الصفحة المحددة على قالب عقاراتي المعين لها."
 
 #: framework/customizer/misc.php:27
 #, fuzzy
@@ -3478,12 +3480,12 @@ msgstr "متفرقات"
 #: framework/customizer/misc.php:37 framework/functions/basic.php:1145
 #, fuzzy
 msgid "View Property"
-msgstr "عرض الممتلكات"
+msgstr "عرض العقار"
 
 #: framework/customizer/misc.php:41
 #, fuzzy
 msgid "Property Detail Page Link Text"
-msgstr "صفحة تفاصيل الملكية"
+msgstr "صفحة تفاصيل العقار"
 
 #: framework/customizer/misc.php:42
 msgid ""
@@ -3493,7 +3495,7 @@ msgstr ""
 
 #: framework/customizer/misc.php:56
 msgid "Replace \"Know More\" Button Text"
-msgstr ""
+msgstr "استبدال/"معرفة المزيد/" نص الزر"
 
 #: framework/customizer/misc.php:57
 #, fuzzy
@@ -3515,17 +3517,17 @@ msgstr "حدد المكون الإضافي Lightbox الذي تريد استخد
 #: framework/customizer/misc.php:74
 #, fuzzy
 msgid "VenoBox Plugin"
-msgstr "Swipebox البرنامج المساعد"
+msgstr "المكون الإضافي VenoBox"
 
 #: framework/customizer/misc.php:75
 #, fuzzy
 msgid "Swipebox Plugin"
-msgstr "Swipebox البرنامج المساعد"
+msgstr "المكون الإضافي Swipebox"
 
 #: framework/customizer/misc.php:76
 #, fuzzy
 msgid "Pretty Photo Plugin"
-msgstr "الصورة جميلة البرنامج المساعد"
+msgstr "المكون الإضافي Pretty Photo"
 
 #: framework/customizer/misc.php:87
 #, fuzzy
@@ -3545,7 +3547,7 @@ msgstr "تحسين الأنماط لتحسين الأداء"
 #: framework/customizer/misc.php:105
 #, fuzzy
 msgid "Enabling this will include compressed version of few big css files."
-msgstr "سيشمل تمكين هذا إصدارًا مضغوطًا من بعض ملفات css الكبيرة."
+msgstr "سيشمل تمكين هذا إصدار مضغوطًا من بعض ملفات css الكبيرة."
 
 #: framework/customizer/news.php:16
 #, fuzzy
@@ -3555,7 +3557,7 @@ msgstr "صفحات مختلفة"
 #: framework/customizer/news.php:24
 #, fuzzy
 msgid "News/Blog Page"
-msgstr "الأخبار / بلوق الصفحة"
+msgstr "الأخبار / صفحة المدونة"
 
 #: framework/customizer/news.php:37
 #, fuzzy
@@ -3565,11 +3567,11 @@ msgstr "شكل رأس الصفحة لعرضه على صفحة الأخبار."
 #: framework/customizer/news.php:103
 #, fuzzy
 msgid "Link to Previous and Next Post"
-msgstr "وصلة إلى السابق والوظيفة التالية"
+msgstr "وصلة إلى المنشورات السابقة واللاحقة"
 
 #: framework/customizer/news.php:118
 msgid "Pages"
-msgstr "الصفحات"
+msgstr "صفحات"
 
 #: framework/customizer/news.php:130
 #, fuzzy
@@ -3579,12 +3581,12 @@ msgstr "شكل العنوان للعرض على الصفحات."
 #: framework/customizer/news.php:146
 #, fuzzy
 msgid "Explode Title"
-msgstr "ينفجر العنوان"
+msgstr "تفاصيل العنوان"
 
 #: framework/customizer/news.php:147
 #, fuzzy
 msgid "Explode page title into sub-title and title."
-msgstr "تنفجر عنوان الصفحة في العنوان الفرعي والعنوان."
+msgstr "تفصيل عنوان الصفحةالرئيسي الى عنوان فرعي."
 
 #: framework/customizer/payments.php:15
 msgid "Payments"
@@ -3603,12 +3605,12 @@ msgstr "عنوان PayPal IPN"
 #: framework/customizer/payments.php:55
 #, fuzzy
 msgid "PayPal merchant account ID or Email"
-msgstr "رقم حساب حساب التاجر أو البريد الإلكتروني"
+msgstr "PayPal merchant account ID or Email"
 
 #: framework/customizer/payments.php:67
 #, fuzzy
 msgid "Enable PayPal Sandbox for Testing"
-msgstr "تمكين PayPal Sandbox للاختبار"
+msgstr "Enable PayPal Sandbox for Testing"
 
 #: framework/customizer/payments.php:84
 #, fuzzy
@@ -3653,7 +3655,7 @@ msgstr "تقديم علامة العملة. على سبيل المثال: $"
 #: framework/customizer/price-format.php:39
 #, fuzzy
 msgid "Position of Currency Sign"
-msgstr "موقف علامة العملة"
+msgstr "موقع علامة العملة"
 
 #: framework/customizer/price-format.php:43
 #, fuzzy
@@ -3750,22 +3752,22 @@ msgstr "تمكين تذييل الشعار"
 #: framework/customizer/sections/footer/logo.php:76
 #, fuzzy
 msgid "Select a logo for your footer."
-msgstr "حدد شعارًا لتذييلك."
+msgstr "حدد شعار التذييل."
 
 #: framework/customizer/sections/footer/logo.php:100
 #, fuzzy
 msgid "Enable Footer Tagline"
-msgstr "تمكين تذييل التذييل"
+msgstr "تمكين نص التذييل"
 
 #: framework/customizer/sections/footer/logo.php:124
 #, fuzzy
 msgid "Simply #1 Real Estate Theme"
-msgstr "ببساطة # 1 العقارية الموضوع"
+msgstr "الموقع الأول للعقارات"
 
 #: framework/customizer/sections/footer/logo.php:128
 #, fuzzy
 msgid "Footer Tagline"
-msgstr "تذييل الصفحة"
+msgstr "نص تذييل الصفحة"
 
 #: framework/customizer/sections/footer/partners.php:23
 #: framework/customizer/sections/home/partners.php:26
@@ -3778,13 +3780,13 @@ msgstr "شركاء"
 #: framework/customizer/sections/footer/partners.php:33
 #, fuzzy
 msgid "Partners Section Above Footer"
-msgstr "قسم الشركاء أعلاه"
+msgstr "قسم الشركاء أعلى التذييل"
 
 #: framework/customizer/sections/footer/partners.php:48
 #: framework/customizer/sections/home/partners.php:117
 #, fuzzy
 msgid "Partners Design Variation to Display"
-msgstr "شركاء تصميم الاختلاف للعرض"
+msgstr "عرض مختلف لتصاميم الشركاء"
 
 #: framework/customizer/sections/footer/partners.php:52
 #: framework/customizer/sections/home/partners.php:121
@@ -3815,7 +3817,7 @@ msgstr "نص حقوق الطبع والنشر"
 #: framework/customizer/sections/footer/text.php:61
 #, fuzzy
 msgid "Designed by Text"
-msgstr "صممه النص"
+msgstr "نص تم تصميمه"
 
 #: framework/customizer/sections/header/banner.php:29
 #, fuzzy
@@ -3832,7 +3834,7 @@ msgstr ""
 #: framework/customizer/sections/header/banner.php:43
 #, fuzzy
 msgid "Header Banner Image"
-msgstr "رأس الصفحة شعار"
+msgstr "Header Banner Image"
 
 #: framework/customizer/sections/header/banner.php:51
 #, fuzzy
@@ -3856,7 +3858,7 @@ msgstr "عنوان البريد الإلكتروني"
 
 #: framework/customizer/sections/header/contact-information.php:76
 msgid "Phone Number Icon "
-msgstr ""
+msgstr "آيكون رقم الهاتف"
 
 #: framework/customizer/sections/header/header-var.php:29
 #, fuzzy
@@ -3869,30 +3871,30 @@ msgstr "هيكل الهيدر"
 
 #: framework/customizer/sections/header/header-var.php:47
 msgid "Choose your desired layout."
-msgstr ""
+msgstr "اختر التنسيق الذي تفضله"
 
 #: framework/customizer/sections/header/others.php:25
 #, fuzzy
 msgid "Others"
-msgstr "الآخرين"
+msgstr "أخرى"
 
 #: framework/customizer/sections/header/others.php:35
 msgid "Sticky Header"
-msgstr "هيدر متحرك"
+msgstr "هيدر ثابت"
 
 #: framework/customizer/sections/header/others.php:55
 #, fuzzy
 msgid "Select Responsive Header"
-msgstr "صفحة نتائج البحث"
+msgstr "اختر هيدر مرن"
 
 #: framework/customizer/sections/header/others.php:58
 msgid "Enabling responsive header on mobile devices."
-msgstr "تمكين رأس سريع الاستجابة على الأجهزة المحمولة."
+msgstr "تمكين رأس مرن على الأجهزة المحمولة."
 
 #: framework/customizer/sections/header/others.php:60
 #, fuzzy
 msgid "Transparent"
-msgstr "(لا يوجد والد)"
+msgstr "شفاف"
 
 #: framework/customizer/sections/header/others.php:61
 msgid "Solid"
@@ -3912,7 +3914,7 @@ msgstr "افتراضي"
 #: framework/customizer/sections/header/others.php:78
 #, fuzzy
 msgid "Center"
-msgstr "مركز"
+msgstr "وسط"
 
 #: framework/customizer/sections/header/search-form.php:24
 #: framework/customizer/sections/home/search-form.php:24
@@ -3942,18 +3944,18 @@ msgstr "الرموز الاجتماعية"
 #: framework/customizer/sections/header/social-icons.php:34
 #, fuzzy
 msgid "Show or Hide Social Icons"
-msgstr "إظهار أو إخفاء الرموز الاجتماعية"
+msgstr "إظهار أو إخفاء آيكون الرموز الاجتماعية"
 
 #: framework/customizer/sections/header/social-icons.php:98
 #: framework/functions/basic.php:391
 #, fuzzy
 msgid "Instagram URL"
-msgstr "عنوان انستغرام"
+msgstr "رابط انستغرام"
 
 #: framework/customizer/sections/header/social-icons.php:110
 #, fuzzy
 msgid "YouTube URL"
-msgstr "يوتيوب URL"
+msgstr "رابط يوتيوب"
 
 #: framework/customizer/sections/header/social-icons.php:121
 #, fuzzy
@@ -3987,7 +3989,7 @@ msgstr "عرض تبديل لغة WPML في رأس رأس"
 
 #: framework/customizer/sections/header/user-navigation.php:65
 msgid "Switcher Language Display Options"
-msgstr "خيارات عرض لغة الجلاد"
+msgstr "مفتاح خيارات عرض اللغة"
 
 #: framework/customizer/sections/header/user-navigation.php:69
 msgid "Name and Flag"
@@ -3996,16 +3998,16 @@ msgstr "الاسم والعلم"
 #: framework/customizer/sections/header/user-navigation.php:70
 #, fuzzy
 msgid "Name Only"
-msgstr "اسم اللون"
+msgstr "اسم فقط"
 
 #: framework/customizer/sections/header/user-navigation.php:71
 msgid "Flag Only "
-msgstr ""
+msgstr "علم فقط"
 
 #: framework/customizer/sections/home/cta-contact.php:26
 #, fuzzy
 msgid "Call to Action — Contact"
-msgstr "دعوة إلى العمل - الاتصال"
+msgstr "دعوة - الاتصال"
 
 #: framework/customizer/sections/home/cta-contact.php:36
 #, fuzzy
@@ -4067,7 +4069,7 @@ msgstr "CTA زر URL واحد"
 #: framework/customizer/sections/home/cta.php:203
 #, fuzzy
 msgid "Browse Property"
-msgstr "تصفح الممتلكات"
+msgstr "تصفح العقار"
 
 #: framework/customizer/sections/home/cta-contact.php:178
 #: framework/customizer/sections/home/cta.php:207
@@ -4105,7 +4107,7 @@ msgstr "وصف CTA"
 #: framework/customizer/sections/home/featured-properties.php:34
 #, fuzzy
 msgid "Featured Properties on Homepage"
-msgstr "خصائص مميزة على الصفحة الرئيسية"
+msgstr "عاقارات مميزة على الصفحة الرئيسية"
 
 #: framework/customizer/sections/home/featured-properties.php:51
 #: framework/customizer/sections/home/home-agents.php:53
@@ -4121,12 +4123,12 @@ msgstr "النص على العنوان"
 #, fuzzy
 msgid ""
 "Exclude or Include Featured Properties from Recent Properties on Homepage"
-msgstr "استبعاد أو تضمين خصائص مميزة من الخصائص الأخيرة على الصفحة الرئيسية"
+msgstr "استبعاد أو تضمين العقارات المميزة من العقارات الحديثة على الصفحة الرئيسية"
 
 #: framework/customizer/sections/home/featured-properties.php:140
 #, fuzzy
 msgid "Select Featured Properties Variation"
-msgstr "اختر خصائص مميزة تباين"
+msgstr "اختر متغيرات العقارات المميزة "
 
 #: framework/customizer/sections/home/features-section.php:23
 #: framework/customizer/sections/home/sections-manager.php:75
@@ -4142,7 +4144,7 @@ msgstr "قسم الميزات على الصفحة الرئيسية"
 #: framework/customizer/sections/home/features-section.php:65
 #, fuzzy
 msgid "Section Background Image"
-msgstr "صورة خلفية القسم"
+msgstr "صورة خلفية"
 
 #: framework/customizer/sections/home/features-section.php:102
 #: framework/customizer/sections/home/news-posts.php:70
@@ -4152,7 +4154,7 @@ msgstr "وصف النص"
 
 #: framework/customizer/sections/home/features-section.php:126
 msgid "First Feature "
-msgstr ""
+msgstr "الميزة الأولى"
 
 #: framework/customizer/sections/home/features-section.php:143
 #: framework/customizer/sections/home/features-section.php:236
@@ -4169,11 +4171,11 @@ msgstr "رابط"
 
 #: framework/customizer/sections/home/features-section.php:218
 msgid "Second Feature "
-msgstr ""
+msgstr "الميزة الثانية"
 
 #: framework/customizer/sections/home/features-section.php:312
 msgid "Third Feature "
-msgstr ""
+msgstr "الميزة الثالثة"
 
 #: framework/customizer/sections/home/features-section.php:428
 #: framework/customizer/sections/home/features-section.php:456
@@ -4203,7 +4205,7 @@ msgstr "الأخيرة"
 #: framework/customizer/sections/home/home-features.php:36
 #, fuzzy
 msgid "Features on Homepage"
-msgstr "الميزات على الصفحة الرئيسية"
+msgstr "المميزة على الصفحة الرئيسية"
 
 #: framework/customizer/sections/home/home-features.php:49
 #, fuzzy
@@ -4263,12 +4265,12 @@ msgstr "بعض الأخبار الأخيرة والتحديثات من موضو�
 #: framework/customizer/sections/home/sections-manager.php:98
 #, fuzzy
 msgid "Content Area"
-msgstr "عنوان الإتصال"
+msgstr "مساحة الإتصال"
 
 #: framework/customizer/sections/home/home-page-contents.php:21
 #, fuzzy
 msgid "Content Area on Homepage"
-msgstr "الميزات على الصفحة الرئيسية"
+msgstr "مساحة الإتصال على الصفحة الرئيسية"
 
 #: framework/customizer/sections/home/home-properties.php:45
 #: framework/customizer/sections/home/sections-manager.php:74
